@@ -14,8 +14,8 @@ const HeroTextContainer = () => {
             </p>
 
             <div className="flex flex-col sm:flex-row  gap-4">
-                <a className="bg-orange-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-orange-700 transition-colors duration-200 text-center">Randevu Al</a>
-                <a className="bg-white text-orange-600  border-2 border-orange-600 px-8 py-3 rounded-lg font-semibold hover:bg-orange-50 transition-colors duration-200 text-center">Hemen Ara</a>
+                <a className="bg-orange-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-orange-700 transition-colors duration-200 text-center cursor-pointer">Randevu Al</a>
+                <a className="bg-white text-orange-600  border-2 border-orange-600 px-8 py-3 rounded-lg font-semibold hover:bg-orange-50 transition-colors duration-200 text-center cursor-pointer">Hemen Ara</a>
 
             </div>
         </div>
