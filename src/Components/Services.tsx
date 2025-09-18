@@ -63,7 +63,7 @@ const Services = () => {
                     {/*Picture*/}
 
                     <div >
-                        <img src="./src/img/dog.png" alt="Dog" className="rounded-2xl shadow-2xl" />
+                        <img src="./img/dog.png" alt="Dog" className="rounded-2xl shadow-2xl" />
                     </div>
 
                 </div>

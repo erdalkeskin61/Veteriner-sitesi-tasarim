@@ -5,7 +5,7 @@ const HeroImageContainer = () => {
         <div className="relative">
             {/* Image */}
 
-            <img src="./src/img/bird.jpeg" alt="Papağan" className="rounded-2xl shadow-2xl" />
+            <img src="./img/bird.jpeg" alt="Papağan" className="rounded-2xl shadow-2xl" />
 
             {/*Experince Card*/}
 
